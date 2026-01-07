@@ -1,4 +1,4 @@
-#  Projeto: Análise de Dados de Vendas com Python
+#  Análise de Dados de Vendas com Python
 
 Este projeto realiza uma análise exploratória de um conjunto de dados fictício de vendas usando Python. O objetivo é demonstrar habilidades em manipulação de dados, visualização e extração de insights.
 
